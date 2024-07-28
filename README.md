@@ -16,9 +16,13 @@
 - **Jupyter Notebook**: For interactive data analysis and visualization.
 
 ## Results
+ ![image](https://github.com/user-attachments/assets/26706120-bbc8-43f2-95b0-f5cec3af99cc)
+ ![image](https://github.com/user-attachments/assets/ceef9195-a68b-41c3-a0f7-18e95d1558a0)
+ ![image](https://github.com/user-attachments/assets/227a6537-22ed-4e66-8613-875f1ed60748)
+ ![image](https://github.com/user-attachments/assets/e09ab0dc-bdfd-4078-8dba-e967945c37cf)
 
-- The sentiment analysis provided insights into the overall tone of the comedians' performances.
-- Visualizations helped in understanding the distribution of sentiment polarity and subjectivity among different comedians.
+
+
 
 ## Future Work
 
